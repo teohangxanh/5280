@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="workspace" />
+    <orderEntry type="module" module-name="Assignment 1" />
+    <orderEntry type="module" module-name="5280" />
+    <orderEntry type="module" module-name="Research" />
+    <orderEntry type="module" module-name="Official assignments" />
+  </component>
+</module>

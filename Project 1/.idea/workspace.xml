@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c7ced29-d5fe-458b-a24f-686db3dd34b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Voting Classification/Confusion matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voting Classification/SVC, DecisionTreeClassifier, SGDClassifier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.idea/Make multiple choice test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/5215-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/AWS Architect Associate-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/AWS Cloud Practitioner - Technology-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/Big Data-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/C++-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/ML Practice Exam-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/ML-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/Make flash cards-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/Make multiple choice test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/MySQL-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/Restaurant-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/Restaurant-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/Swift-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/Test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/Write matrix-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/m-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/.ipynb_checkpoints/n-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/5215.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/AWS Architect Associate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/AWS Cloud Practitioner - Technology.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Big Data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/C++.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Git.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Hadoop.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/ML Practice Exam.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/ML.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Make multiple choice test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Microsoft PowerPoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/MySQL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/NoSQL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Restaurant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Scala.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Swift.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Make multiple choice test/Write matrix.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2EtmyImUSv0K2SXLctnOCGnDUb8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BitBucket/Fall22_5215/Official assignments&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BitBucket\5280\Project\Data\Engineered" />
+      <recent name="D:\BitBucket\5280\Project" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

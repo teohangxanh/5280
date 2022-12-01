@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/5280.iml" filepath="$PROJECT_DIR$/../../.idea/5280.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Fall22_5215/.idea/Fall22_5215.iml" filepath="$PROJECT_DIR$/../../../Fall22_5215/.idea/Fall22_5215.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Fall22_5215/Official assignments/.idea/Official assignments.iml" filepath="$PROJECT_DIR$/../../../Fall22_5215/Official assignments/.idea/Official assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Project.iml" filepath="$PROJECT_DIR$/../.idea/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Research/.idea/Research.iml" filepath="$PROJECT_DIR$/../../../Research/.idea/Research.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Voting Classification.iml" filepath="$PROJECT_DIR$/.idea/Voting Classification.iml" />
+    </modules>
+  </component>
+</project>
